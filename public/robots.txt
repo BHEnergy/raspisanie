@@ -1,0 +1,4 @@
+# Crawling is allowed so search engines can read the noindex meta tag.
+# A Disallow rule would prevent them from seeing that directive.
+User-agent: *
+Allow: /

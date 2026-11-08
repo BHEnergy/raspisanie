@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="15" fill="#e4ead9"/>
+  <!-- Geometric Cyrillic р, drawn as a path to avoid font dependencies. -->
+  <path fill="#4d6c53" fill-rule="evenodd" d="M19 16h7v4c3-3 6-4 10-4 10 0 15 7 15 16s-6 16-15 16c-4 0-7-1-10-4v13h-7V16zm16 7c-6 0-9 4-9 9s3 9 9 9 9-4 9-9-3-9-9-9z"/>
+  <circle cx="51" cy="52" r="4" fill="#a6b58e"/>
+</svg>
